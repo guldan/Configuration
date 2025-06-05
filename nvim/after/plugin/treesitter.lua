@@ -12,7 +12,8 @@ treesitter.setup({
 	"yaml",
 	"lua",
 	"html",
-	"css"
+	"css",
+	"go"
 	},
 auto_install = true
 })
