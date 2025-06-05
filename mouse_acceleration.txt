@@ -1,0 +1,3 @@
+# Disable mouse acceleration:
+# sudo apt install gnome-tweaks
+# gnome-tweaks # > mouse settings, acceleration profile, flat
